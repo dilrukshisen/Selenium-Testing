@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-30T15:40:47 IST" name="Command line suite" finished-at="2023-08-30T15:40:47 IST" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2023-08-30T15:40:47 IST" name="Command line test" finished-at="2023-08-30T15:40:47 IST" duration-ms="60">
+      <class name="testng.annotations.TestNGAnnotationTest5">
+        <test-method signature="testCreate()[pri:0, instance:testng.annotations.TestNGAnnotationTest5@1725dc0f]" started-at="2023-08-30T15:40:47 IST" name="testCreate" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreate -->
+        <test-method signature="testDelete()[pri:0, instance:testng.annotations.TestNGAnnotationTest5@1725dc0f]" started-at="2023-08-30T15:40:47 IST" name="testDelete" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDelete -->
+        <test-method signature="testEdit()[pri:0, instance:testng.annotations.TestNGAnnotationTest5@1725dc0f]" started-at="2023-08-30T15:40:47 IST" name="testEdit" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEdit -->
+        <test-method signature="testLogin()[pri:0, instance:testng.annotations.TestNGAnnotationTest5@1725dc0f]" started-at="2023-08-30T15:40:47 IST" name="testLogin" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testLogout()[pri:0, instance:testng.annotations.TestNGAnnotationTest5@1725dc0f]" started-at="2023-08-30T15:40:47 IST" name="testLogout" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogout -->
+      </class> <!-- testng.annotations.TestNGAnnotationTest5 -->
+      <class name="testng.annotations.TestNGAnnotationTest2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.annotations.TestNGAnnotationTest2@6ca8564a]" started-at="2023-08-30T15:40:47 IST" name="setUp" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:testng.annotations.TestNGAnnotationTest2@6ca8564a]" started-at="2023-08-30T15:40:47 IST" name="test1" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.annotations.TestNGAnnotationTest2@6ca8564a]" started-at="2023-08-30T15:40:47 IST" name="tearDown" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.annotations.TestNGAnnotationTest2 -->
+      <class name="testng.annotations.TestNGAnnotationTest1">
+        <test-method signature="test()[pri:0, instance:testng.annotations.TestNGAnnotationTest1@1817d444]" started-at="2023-08-30T15:40:47 IST" name="test" finished-at="2023-08-30T15:40:47 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- testng.annotations.TestNGAnnotationTest1 -->
+      <class name="testng.annotations.TestNGAnnotationTest4">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="beforeClass" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test1()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="test1" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="setUp" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="tearDown" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="test2()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="test2" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="setUp" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="afterClass" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.annotations.TestNGAnnotationTest4@31368b99]" started-at="2023-08-30T15:40:47 IST" name="tearDown" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.annotations.TestNGAnnotationTest4 -->
+      <class name="testng.annotations.TestNGAnnotationTest3">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.annotations.TestNGAnnotationTest3@50b472aa]" started-at="2023-08-30T15:40:47 IST" name="setUp" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:testng.annotations.TestNGAnnotationTest3@50b472aa]" started-at="2023-08-30T15:40:47 IST" name="test1" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.annotations.TestNGAnnotationTest3@50b472aa]" started-at="2023-08-30T15:40:47 IST" name="tearDown" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testng.annotations.TestNGAnnotationTest3@50b472aa]" started-at="2023-08-30T15:40:47 IST" name="setUp" finished-at="2023-08-30T15:40:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test2()[pri:0, instance:testng.annotations.TestNGAnnotationTest3@50b472aa]" started-at="2023-08-30T15:40:47 IST" name="test2" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testng.annotations.TestNGAnnotationTest3@50b472aa]" started-at="2023-08-30T15:40:47 IST" name="tearDown" finished-at="2023-08-30T15:40:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.annotations.TestNGAnnotationTest3 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
